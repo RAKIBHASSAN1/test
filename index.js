@@ -4,7 +4,7 @@ function sendEmail() {
 				Username : "rakibhassan9t7@gmail.com",
 				Password : "nkftukmjddtzhzdx",
 				To : 'rakibhassan9t7@gmail.com',
-				From : "tipusultan9t7a@gmail.com",
+				From : "rakibhassan9t7@gmail.com",
 				Subject : "email subject",
 				Body : "email body",
 			})
